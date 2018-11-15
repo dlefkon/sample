@@ -1,0 +1,44 @@
+
+Assignment
+	•	Create a PHP application and HTML page using ES6 Javascript and jQuery.
+	•	The Page view of the application will contain 2 dropdowns (The dropdowns should be custom dropdowns )– 1st dropdown will list 2 makes – Ford, Acura. The 2nd dropdown will contain the corresponding models based on the selection of the make – Models dropdown will be hidden by default and will only be available in the DOM if the make is selected. 
+	•	Models for Ford: Edge, Escape.
+	•	Models for Acura: ILX, MDX.
+	•	The page view will also contain a content placeholder – Depending on the model selected, the text will be populated in the first placeholder based on that specific model. The content should also display the corresponding image of the vehicle.
+	•	Write unit tests validating the functionality above.
+	•	Data should come from SQL DB.  
+Note: 1.  Document the comments for the code
+          2. Explain the approach you took to complete the assignment and share the instructions on how to start the project.
+
+access GitHub.com
+create html
+create js file
+create php file
+install eclipse
+restore files
+get local webserver working
+install composer
+include twig ... composer require "twig/twig:^2.0"
+clear errors
+connect via mysqlworkbench
+create db and 3 tables
+use pdo and connect
+enter data in db .. use phpmyadmin
+write queries to fix logic
+
+
+download pics
+put pics in images dir in web dir
+output pics
+7
+inspect code and fix
+Create new git repo and push to github and let Nick know
+8
+
+get twig working and use syntax
+install pecl and xdebug.so and configure
+improve js .. change bind to on, etc.
+create unit test
+create db and tables with mysql workbench and take screenshots
+find images and download
+add composer dependancy json
